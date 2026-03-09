@@ -51,10 +51,31 @@ const config = {
         title: 'PLANET Docs',
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            to: '/docs/about',
+            label: 'About The Open Co-op',
             position: 'left',
-            label: 'Docs',
+          },
+          {
+            type: 'dropdown',
+            label: 'PLANET',
+            position: 'left',
+            items: [
+              {to: '/docs/planet/vision', label: 'Vision'},
+              {to: '/docs/planet/how-it-works', label: 'How It Works'},
+              {to: '/docs/planet/technology', label: 'Technology'},
+              {to: '/docs/planet/the-co-op', label: 'The Co-op'},
+              {to: '/docs/planet/roadmap', label: 'Roadmap'},
+            ],
+          },
+          {
+            to: '/docs/background',
+            label: 'Background & Research',
+            position: 'left',
+          },
+          {
+            to: '/docs/contributors',
+            label: 'For Contributors',
+            position: 'left',
           },
           {
             href: 'https://github.com/The-Open-Co-op/docs',
@@ -69,10 +90,10 @@ const config = {
           {
             title: 'Docs',
             items: [
-              {
-                label: 'Getting Started',
-                to: '/docs/intro',
-              },
+              {label: 'About', to: '/docs/about'},
+              {label: 'PLANET', to: '/docs/planet/vision'},
+              {label: 'Background & Research', to: '/docs/background'},
+              {label: 'For Contributors', to: '/docs/contributors'},
             ],
           },
           {
