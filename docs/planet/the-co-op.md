@@ -16,15 +16,18 @@ Our mission is to co-create PLANET — a member-owned co-operating system to sup
 
 Members of The Open Co-op commit to three shared principles:
 
-**People and Planet Over Profit**
+**People and Planet Over Profit:**
+
 We depend on planet Earth for our survival.
 We restore and regenerate the living systems we rely on and consider the wellbeing of future generations in every decision.
 
-**Cooperation Over Competition**
+**Cooperation Over Competition:**
+
 We cooperate to build a world of shared prosperity.
 We work together to create an economy that benefits everyone.
 
-**Trust Over Control**
+**Trust Over Control:**
+
 We start from trust.
 We empower people and communities to act with autonomy and responsibility.
 
