@@ -6,6 +6,28 @@ sidebar_position: 4
 
 PLANET is operated by [The Open Co-op](https://open.coop) — a cooperative owned by its members. Not a startup. Not a charity. A cooperative, in the oldest and most straightforward sense: an organisation run by and for the people who use it.
 
+## Purpose:
+
+The purpose of The Open Co-op is to catalyse the collaborative, regenerative economy.
+
+Our mission is to co-create PLANET — a member-owned co-operating system to support collaboration at scale.
+
+## Principles:
+
+Members of The Open Co-op commit to three shared principles:
+
+**People and Planet Over Profit**
+We depend on planet Earth for our survival.
+We restore and regenerate the living systems we rely on and consider the wellbeing of future generations in every decision.
+
+**Cooperation Over Competition**
+We cooperate to build a world of shared prosperity.
+We work together to create an economy that benefits everyone.
+
+**Trust Over Control**
+We start from trust.
+We empower people and communities to act with autonomy and responsibility.
+
 ## A bit of history
 
 The Open Co-op has been building cooperative digital infrastructure for over twenty years. PLANET is its flagship project, but it didn't come out of nowhere — it's the product of two decades of work on decentralised identity, trust networks, and the regenerative economy. You can read more about the [history on open.coop](https://open.coop/history/).
