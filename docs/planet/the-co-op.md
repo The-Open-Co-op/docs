@@ -76,15 +76,6 @@ Inspired by the Well-being of Future Generations (Wales) Act 2015 — the world'
 
 This is a structural choice. A cooperative with no shareholders and no exit strategy is designed to persist. The digital commons we're building today should still be serving people decades from now.
 
-## Principles
-
-1. **Member ownership** — owned by members, not shareholders or investors.
-2. **Transparency** — every financial transaction public, every strategic decision documented.
-3. **Future generations** — decisions consider their long-term impact, not just immediate needs.
-4. **Progressive governance** — start minimal, add structure when needed, not before.
-5. **Practical cooperation** — best tools for the job, getting things done over ideological purity.
-6. **Trust as foundation** — we operate the way PLANET works: through real relationships and earned trust.
-
 ## Get involved
 
 - [Join as a member](https://opencollective.com/the-open-co-op)
