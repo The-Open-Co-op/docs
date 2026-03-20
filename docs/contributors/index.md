@@ -12,7 +12,7 @@ PLANET is a cooperative project. Every contribution matters — code, design, wr
 
 It depends on how deep you want to go.
 
-**Anyone** can report issues, suggest improvements, share PLANET with people who'd care about it, or fund features via [Open Collective](https://opencollective.com/the-open-co-op).
+**Anyone** can report issues, suggest improvements, share PLANET with people who'd care about it, or fund features via [Open Collective](https://opencollective.com/open-coop).
 
 **Members** can participate in governance decisions on Loomio, give feedback on specs and designs, and test demos and prototypes.
 
@@ -26,7 +26,7 @@ Working drafts live in Google Docs — ask for access in the contributor Signal 
 
 Code goes through pull requests with at least one review. Write clear commit messages. If you're unsure about something, open an issue to discuss before building — it saves time.
 
-Real-time coordination happens in Signal groups (contributor access). Task tracking and technical discussion happen in GitHub Issues. Governance decisions happen on Loomio. Finances are transparent on [Open Collective](https://opencollective.com/the-open-co-op).
+Real-time coordination happens in Signal groups (contributor access). Task tracking and technical discussion happen in GitHub Issues. Governance decisions happen on Loomio. Finances are transparent on [Open Collective](https://opencollective.com/open-coop).
 
 You can use AI tools to accelerate your work. Most of us do. When you do, review the output before committing — you own the quality. Note in pull requests if substantial portions were AI-assisted, and share useful prompts or approaches with other contributors. We're building a cooperative; that includes sharing how we work.
 

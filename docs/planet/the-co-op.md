@@ -68,7 +68,7 @@ This governance is designed to evolve. At 500 members, we review it. At 1,000, w
 
 ## Transparency
 
-All finances are transparent via [Open Collective](https://opencollective.com/the-open-co-op). Every contribution in, every expense out, visible to anyone. Member-funded, member-directed.
+All finances are transparent via [Open Collective](https://opencollective.com/open-coop). Every contribution in, every expense out, visible to anyone. Member-funded, member-directed.
 
 ## Future generations
 
@@ -78,4 +78,4 @@ This is a structural choice. A cooperative with no shareholders and no exit stra
 
 ## Get involved
 
-- [Join as a member](https://opencollective.com/the-open-co-op)
+- [Join as a member](https://opencollective.com/open-coop)

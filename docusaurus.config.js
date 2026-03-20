@@ -14,7 +14,7 @@ const config = {
   url: 'https://docs.open.coop',
   baseUrl: '/',
 
-  organizationName: 'The-Open-Co-op',
+  organizationName: 'The Open Co-op',
   projectName: 'docs',
 
   onBrokenLinks: 'throw',
@@ -31,7 +31,7 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          editUrl: 'https://github.com/The-Open-Co-op/edit/main/',
+          editUrl: 'https://github.com/The-Open-Co-op/docs/edit/main/',
           routeBasePath: '/',
         },
         blog: false,
