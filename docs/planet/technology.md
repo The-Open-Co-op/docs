@@ -59,7 +59,7 @@ But it matters that the technology is open, standard, and not controlled by any 
 
 ## Go deeper
 
-- [First Person Project White Paper](https://www.firstperson.network/) — the full technical and strategic story
+- [First Person Project White Paper](https://www.firstperson.network/white-paper) — the full technical and strategic story
 - [Trust Over IP](https://trustoverip.org/) — the protocol stack architecture
-- [Decentralised Trust Graph Working Group](https://trustoverip.org/) — standards for PHCs, VRCs, and the trust graph
-- [Linux Foundation Decentralised Trust](https://www.lfdecentralizedtrust.org/) — the open source foundation for decentralized technology ecosystems
+- [Decentralised Trust Graph Working Group](https://lf-toip.atlassian.net/wiki/spaces/HOME/pages/257785857/Decentralized+Trust+Graph+Working+Group) — standards for PHCs, VRCs, and the trust graph
+- [Linux Foundation Decentralized Trust](https://www.lfdecentralizedtrust.org/) — the open source foundation for decentralized technology ecosystems
