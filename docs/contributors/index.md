@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 3
 slug: /contributing
 sidebar_label: Contributing
 ---
@@ -38,4 +38,4 @@ Treat all contributors with respect regardless of experience level. Give constru
 
 ## Getting started
 
-Read the [docs site](https://docs.open.coop) to understand the vision, if you haven't already, then sign up as a member. Browse [open issues](https://github.com/The-Open-Co-op/planet/issues) for something that interests you. Comment on an issue to signal you'd like to work on it. Feel free to ask questions. We look forward to collaborating with you.
+Read the [docs site](https://docs.open.coop) to understand the vision, if you haven't already, then [sign up as a member](https://collab.open.coop/join). Browse [open issues](https://github.com/The-Open-Co-op/planet/issues) for something that interests you. Comment on an issue to signal you'd like to work on it. Feel free to ask questions. We look forward to collaborating with you.
