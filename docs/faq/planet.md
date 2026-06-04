@@ -16,6 +16,23 @@ In short: it's not just another app — it's shared infrastructure for people to
 </details>
 
 <details>
+<summary>What is a Decentralised Trust Graph?</summary>
+
+**What is the Decentralised Trust Graph?**
+
+The Decentralised Trust Graph is the relational backbone of PLANET. Rather than relying on a central authority to verify who people are, trust is established through the connections between individuals — the network of who has vouched for, introduced, or attested to whom. Each connection is a link in the graph, and the accumulated pattern of these links is what allows trust to be established and verified.
+
+**What is its purpose?**
+
+Its purpose is to provide a way of establishing trust between people and organisations without depending on a central gatekeeper or a single platform owner. Traditional systems require a central authority to hold and verify identity data, which concentrates power and creates a single point of failure, surveillance, and control. The Decentralised Trust Graph distributes this function across the relationships in the network itself, so trust emerges from real human and organisational connections rather than being granted from above. This makes it possible to build cooperative digital infrastructure that resists capture and respects the autonomy of its participants.
+
+**Who has access to it?**
+
+There is no single, complete copy of the graph that any one party can see in full — this is a deliberate design choice. Participants hold and control their own connections and credentials, and can choose what to reveal and to whom. When trust needs to be established for a particular interaction, only the relevant portion of the graph is traversed or proven, rather than exposing the whole network. This protects privacy and prevents any actor — including PLANET itself — from holding a god's-eye view of everyone's relationships. Access is therefore relational and contextual: you see and use the parts of the graph you are connected to and have permission to traverse, not the entire structure.
+
+</details>
+
+<details>
 <summary>What is the difference between a Profile and a Trust Profile?</summary>
 
 A profile is a standard page with info about you. A Trust Profile is dynamic and relationship-aware. It includes not just personal and contact details, but also bespoke sharing settings for vouches (endorsements), your location info, posts, calendar, account recovery and network access, so you can control what people assigned to different trust profiles can see. PLANET is being designed to ship with different suggested trust profiles including: Public, Family, Friends, Business, Community — but you will also be able to create your own bespoke trust profiles.
