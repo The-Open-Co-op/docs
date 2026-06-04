@@ -33,6 +33,19 @@ There is no single, complete copy of the graph that any one party can see in ful
 </details>
 
 <details>
+<summary>What is a Verifiable Trust Agent (VTA) and backup hosting provider?</summary>
+
+Your data is stored in your own encrypted local vault, anchored to your DID (decentralised identifier). The vault lives on your device and belongs to you — your identity, connections, and data stay in the app, not on anyone else's servers.
+
+But because the vault is local, PLANET needs a way to keep working when your device is offline — so that messages can still reach you and connections can still be verified. That role is performed by a **Verifiable Trust Agent (VTA)**: an always-available agent that acts on your behalf when your device isn't online.
+
+Your VTA is run for you by a **backup hosting provider**, which also keeps a secure remote backup of your wallet and any other media you choose to back up — so nothing is lost if your device is. To keep onboarding simple, new members are assigned the PLANET VTA by default.
+
+You are never locked in: you can choose your own backup hosting provider and switch at any time. Because your identity and connections travel with you in your vault rather than living on the provider's servers, changing providers doesn't change who you are or who you're connected to.
+
+</details>
+
+<details>
 <summary>What is the difference between a Profile and a Trust Profile?</summary>
 
 A profile is a standard page with info about you. A Trust Profile is dynamic and relationship-aware. It includes not just personal and contact details, but also bespoke sharing settings for vouches (endorsements), your location info, posts, calendar, account recovery and network access, so you can control what people assigned to different trust profiles can see. PLANET is being designed to ship with different suggested trust profiles including: Public, Family, Friends, Business, Community — but you will also be able to create your own bespoke trust profiles.
