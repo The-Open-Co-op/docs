@@ -46,7 +46,7 @@ The First Person Project is building reference implementations of the full stack
 
 - **PNM (Personal Network Manager)** — the client-side agent and vault. PLANET wraps the PNM with its own branding and user experience. Written in Rust with mobile (Dart) and web (React) frontends.
 - **CNM (Community Network Manager)** — the admin tool for communities to manage membership, trust schemas, and governance.
-- **VTA (Verified Trust Agent)** — server-side infrastructure that handles credential issuance, trust registry queries, and agent-to-agent communication. Has a plugin architecture so apps can extend its capabilities.
+- **VTA (Verifiable Trust Agent)** — server-side infrastructure that handles credential issuance, trust registry queries, and agent-to-agent communication. Has a plugin architecture so apps can extend its capabilities.
 - **SDKs** in Rust, Dart, and TypeScript for building apps on the trust layer.
 
 The stack is in active development, targeting initial delivery in September 2026.
