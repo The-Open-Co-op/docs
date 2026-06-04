@@ -8,7 +8,7 @@ PLANET is operated by [The Open Co-op](https://open.coop) — a cooperative owne
 
 ## Purpose:
 
-The purpose of The Open Co-op is to catalyse the collaborative, regenerative economy.
+The purpose of The Open Co-op is to catalyse the collaborative, <a href="https://capitalinstitute.org/8-principles-regenerative-economy/" target="_blank" rel="noopener noreferrer">regenerative economy</a>.
 
 Our mission is to co-create PLANET — a member-owned co-operating system to support collaboration at scale.
 
