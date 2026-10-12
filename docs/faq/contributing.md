@@ -37,7 +37,7 @@ Just click Join us on [collab.open.coop](https://collab.open.coop/) and follow t
 <details>
 <summary>Can I fund a specific feature?</summary>
 
-Yes, this is absolutely part of the plan. We aim to set up a bounty system for PLANET so that any member of The Open Co-op can propose a new feature, which other members can debate and help refine, and price, so that funds can be crowdsourced and once the bounty is raised developers can apply to do the work. But at this early stage our main goal is to develop a working demo of all the core features of PLANET, so bounties may not be deployed until after we have a minimal viable product.
+Yes, this is absolutely part of the plan. We aim to set up a bounty system for PLANET so that any member of The Open Co-op can propose a new feature, which other members can debate and help refine, and price, so that funds can be crowdsourced and once the bounty is raised developers can apply to do the work. But at this early stage our main goal is to develop a working demo of all the core features of PLANET, so bounties won't launch until after we have a minimum viable product.
 
 </details>
 

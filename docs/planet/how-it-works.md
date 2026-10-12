@@ -34,7 +34,7 @@ Communities can set up their own community vault — and access a growing suite 
 
 PLANET is operated by The Open Co-op — a cooperative owned by its members. No shareholders, no venture capital, no exit strategy. The infrastructure is commons, held in trust for current and future generations.
 
-Every member gets a vote. The budget is fully transparent. Members fund the features they want through [feature bounties](../faq/contributing.md): anyone can propose a feature, members debate and price it, and once the cost is crowdfunded on Open Collective a developer picks up the work — so development is directed by the people who use it. Bounties start once PLANET reaches a minimum viable product. When you set up your vault, you're not signing up for a service — you're joining a cooperative with a say in how the whole thing evolves.
+Every member gets a vote, and the budget is fully transparent. Once PLANET reaches a working product, members will also fund the features they want through [feature bounties](../faq/contributing.md): anyone can propose a feature, members debate and price it, the cost is crowdfunded on Open Collective, and a developer picks up the work — so development ends up directed by the people who use it. That part is still ahead of us; today the focus is getting PLANET's core built. When you set up your vault, you're not signing up for a service — you're joining a cooperative with a say in how the whole thing evolves.
 
 ## Where we are
 

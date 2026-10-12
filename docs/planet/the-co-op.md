@@ -62,7 +62,7 @@ At this stage — pre-launch, small team — governance is deliberately minimal:
 
 **Strategic decisions** (partnerships, major direction changes, accepting grants, governance changes) are proposed by the core team and decided by membership vote on Loomio with a minimum 7-day discussion period.
 
-**Feature priorities** are influenced by members directly, through [feature bounties](../faq/contributing.md) on Open Collective — members propose and price the features they want, crowdfund the cost, and developers apply to build them.
+**Feature priorities** are set by the core team for now, shaped by member input. Once PLANET has a working product we'll open [feature bounties](../faq/contributing.md) on Open Collective, so members can propose and price the features they want, crowdfund the cost, and have developers apply to build them.
 
 This governance is designed to evolve. At 500 members, we review it. At 1,000, we draft a formal constitution. The process will be democratic.
 
