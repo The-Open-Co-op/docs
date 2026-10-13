@@ -40,5 +40,9 @@ Every member gets a vote, and the budget is fully transparent. Once PLANET reach
 
 PLANET is a work in progress. The technology exists. Decentralised identifiers, verifiable credentials, end-to-end encryption, peer-to-peer data — these are proven open standards. The [First Person Network](https://www.firstperson.network/) is building the protocol infrastructure. Our job is to build a client that people actually want to use, and to seed the network with communities that make it thrive.
 
-The base infrastructure should be available from the First Person project in September 2026 so, between now and then, there's a lot to build — and you can help. Fund a feature, test a prototype, write docs, design interfaces, bring your community, or tell someone you trust. Every contribution makes the commons stronger.
+Parts of that base infrastructure are already running. Members sign in with their wallet instead of a password, across the member portal and operator console. The community app has step-by-step onboarding for applicants and vetters. The stack reads credentials from EU and Swiss (swiyu) wallets, checks signatures and revocation lists, and works with phone-chip keys.
+
+Still to come: one full end-to-end exchange with a real swiyu wallet, the phone approver app for families, and an independent review of the proof library behind private vetting. Progress is published weekly in the [OpenVTC build reports](https://docs.fpp.storm.ws/week-41-openvtc-report.html).
+
+So there's still a lot to build — and you can help. [Get involved](https://collab.open.coop/).
 
