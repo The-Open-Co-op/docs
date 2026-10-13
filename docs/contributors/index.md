@@ -12,7 +12,7 @@ PLANET is a cooperative project. Every contribution matters — code, design, wr
 
 It depends on how deep you want to go.
 
-**Anyone** can report issues, suggest improvements, share PLANET with people who'd care about it, or fund features via [Open Collective](https://opencollective.com/open-coop).
+**Anyone** can report issues, suggest improvements, share PLANET with people who'd care about it, or fund the work via [Open Collective](https://opencollective.com/open-coop).
 
 **Members** can participate in governance decisions on Loomio, give feedback on specs and designs, and test demos and prototypes.
 
