@@ -28,7 +28,7 @@ Code goes through pull requests with at least one review. Write clear commit mes
 
 Real-time coordination happens in Signal groups (contributor access). Task tracking and technical discussion happen in GitHub Issues. Governance decisions happen on Loomio. Finances are transparent on [Open Collective](https://opencollective.com/open-coop).
 
-You can use AI tools to accelerate your work. Most of us do. When you do, review the output before committing — you own the quality. Note in pull requests if substantial portions were AI-assisted, and share useful prompts or approaches with other contributors. We're building a cooperative; that includes sharing how we work.
+You can use AI tools to accelerate your work. When you do, review the output before committing — you own the quality. Note in pull requests if substantial portions were AI-assisted, and share useful prompts or approaches with other contributors. We're building a cooperative; that includes sharing how we work.
 
 ## How we treat each other
 
