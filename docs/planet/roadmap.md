@@ -25,7 +25,3 @@ As the project evolves we will expand the Core Team into collaborative circles w
 - **Business** — refining the hosting model, funding strategy, and sustainability plan
 
 If you want to be part of any of these, [join the co-op](https://opencollective.com/open-coop) and get involved.
-
-## Track progress
-
-We track tasks and priorities in [GitHub Projects](https://github.com/orgs/The-Open-Co-op/projects).
